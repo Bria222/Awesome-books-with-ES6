@@ -1,6 +1,7 @@
 # awesome-books-app
 # Desktop version
-![Screenshot (201)](https://user-images.githubusercontent.com/64264883/164335256-1f142f4d-1023-48d5-82b5-27fbbc968a09.png)
+![Screenshot (207)](https://user-images.githubusercontent.com/64264883/165182968-3898a0f6-cf66-4b91-9086-170a3d4b3b78.png)
+
 
 # mobile version
 
