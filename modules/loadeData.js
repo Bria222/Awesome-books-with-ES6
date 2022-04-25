@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-cycle
 import { getTime } from '../js/index.js';
 import Books from './books.js';
 
