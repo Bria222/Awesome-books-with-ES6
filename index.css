@@ -184,7 +184,7 @@ nav a:hover::before {
 .underline {
   height: 5px;
   background-color: yellow;
-  width: 50%;
+  width: 70%;
   margin: 2rem auto 1rem auto;
 }
 
@@ -192,7 +192,7 @@ nav a:hover::before {
   width: 70%;
   padding: 8px;
   margin: 10px 0;
-  border-radius: 30px;
+  border-radius: 80px;
 }
 
 .btn-add {
