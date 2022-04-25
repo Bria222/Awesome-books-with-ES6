@@ -1,7 +1,10 @@
+/* eslint-disable import/prefer-default-export */
 /* eslint-disable linebreak-style */
-const textWrapper = document.querySelector('.ml2');
 import { DateTime } from '../modules/luxon.js';
+// eslint-disable-next-line import/no-cycle
 import loadData from '../modules/loadeData.js';
+
+const textWrapper = document.querySelector('.ml2');
 // get date and time
 export const getTime = () => {
   const dt = DateTime.now();
