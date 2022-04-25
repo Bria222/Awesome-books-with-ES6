@@ -97,12 +97,12 @@ export default class Books {
     static addUi = () => {
       let result = '';
       if (Books.getBooksLs() === null) {
-        allBks.innerHTML = '<h3 class="empty">OOPs no Books available at the moment !</h3>';
+        allBks.innerHTML = '<h5class="empty">OOPs no Books available at the moment !</h5class=>';
         titleCont.style.display = 'none';
         return;
       }
       if (books.length === 0) {
-        allBks.innerHTML = '<h3 class="empty">OOPs no Books available at the moment !</h3>';
+        allBks.innerHTML = '<h5 class="empty">OOPs no Books available at the moment !</h5>';
         titleCont.style.display = 'none';
         return;
       }
@@ -127,10 +127,10 @@ export default class Books {
         const result = `
         <i class="fa-solid fa-phone-volume fa-5x"></i>
           <h2 class="books-title">Contact Us</h2>
-          <p class="contact-text">For any questions feel free to reach us </p>
+          <p class="contact-text">For any questions feel free to reach me through </p>
           <ul class="contact-list ">
-            <li class="contact-text">our email: awesomebooks.com</li>
-            <li class="contact-text">our phone number: +100007856536</li>
+            <li class="contact-text">My email: awesomebooks.com</li>
+            <li class="contact-text">our phone number: +254710889090</li>
           </ul>
         `;
         bkContainer.innerHTML = result;
