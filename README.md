@@ -2,12 +2,6 @@
 # Desktop version
 ![Screenshot (207)](https://user-images.githubusercontent.com/64264883/165182968-3898a0f6-cf66-4b91-9086-170a3d4b3b78.png)
 
-
-# mobile version
-
-![Screenshot (202)](https://user-images.githubusercontent.com/64264883/164335479-8851e3d9-be0d-4111-8e74-ad1d3ec48faf.png)
-
-
 In this project, we set up awesome books repository. our goal here was to build a a book application with html javascript and css.
 
 
@@ -43,17 +37,13 @@ To get a local copy up and running follow these simple steps:
 
 
 
-## Authors 1
+## Authors 
 
 👤 **brian nyachae**
 
 - GitHub: [@Bria222](https://github.com/Bria222)
 
-## Authors 2
 
-👤 **Abiodan**
-
-- GitHub: [@Babiodunraheem](https://github.com/abiodunraheem)
 
 
 
